@@ -1,2 +1,2 @@
 # Last-Piece
-Last Piece ( Auto Farm , Auto Stats , One Shot )
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",true))()
